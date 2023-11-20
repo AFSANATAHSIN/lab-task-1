@@ -1,4 +1,4 @@
-This repository is for all kinds university tasks regarding the course of Structured programing.
+This repository is for all kinds university tasks regarding the course of Structured programing
 
 This repoitory belongs to:
 
